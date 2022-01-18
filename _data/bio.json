@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://scott-yuk.github.io/images/ScottYuk.jpg",
     "email": "syuk@hawaii.edu",
-    "phone": "808",
+    "phone": "",
     "website": "https://scott-yuk.github.io",
     "summary": "I am currently a student at the University of Hawaii at Manoa studying Compute Science in the college of Natural Sciences. Expected to graduate in the spring of 2023.",
     "location": {
@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "Scott Yuk",
         "url": "http://linkedin.com/in/scott-yuk"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -49,7 +39,7 @@
       ]
     },
     {
-      "name": "",
+      "name": "Software Engineering",
       "keywords": [
       ]
     }

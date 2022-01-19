@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Learning another way to speak
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-18
+date: 2022-01-19
 labels:
   - Software Engineering
   - Learning
@@ -14,18 +14,16 @@ labels:
 So far I've only learned java, C and bit of C++ and so I went into the freeCodeCamp relying on my previous knowledge of the languages I already know.
 Overall the basics of javascript and ES6 was fairly easy to me and was familiar due to my knowledge of java.
 Though I didn't struggle with the syntax of javascript at times and learned a lot of interesting things specific to javascript that I wish was in Java.
-Like variables not needing to be assigned a type like in java, and functions being more straight forward.
+Like variables not needing to be assigned a type like in java, and functions being more straight forward compared to java.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. 
-For example, when looking at abstract art, its meaning can be completely different for different people. 
-It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. 
-It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+My experience using javascript was refreshing and exciting. For the majority of my computer science journey I've only really used java as my coding language.
+Doing the CodeCamp felt like relearning java in the sense that I am learning a new language and trying to figure out all the little intricacies within the language.
+And going deeper into javascript with ES6 opened more possabilities with javascript and what the language can really do.
+Even now completing the basics of javascript and the ES6 modules I still don't really know the possiblities of javascript. 
+So I hope to learn as much as I can and expand my knowledge of javascript as I continue my journey of coding.
 
-I never used to think that design and technology went hand in hand.  
-Thus, learning about software engineering and the role of design has been incredibly interesting to me. 
-Design, implementation, and management are just some of the many things I wish to learn more about. 
-Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. 
-By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
-
+Now that I'm furthuring my knowledge of coding I feel like certain bits of information is forgotten, and this may just be true for me but I do often forget things.
+Especially when learn more advanced concepts, it's hard to maintain and test what I learned. Having WODS (Workout Of the Day) feel very good.
+These short exercises that help test my knowledge of what I just learned helps me maintain the information but also shows me what I need to work at more.
+For example the two WODs I've tried showed me that I can learn the syntax and ideas of a new language, but timing myself and being more efficient needs work.
+Overtime with more experience and pratice, my skills in coding will improve and help me find what I want to pursue in computer science.

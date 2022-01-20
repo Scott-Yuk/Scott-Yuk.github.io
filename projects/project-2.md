@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Finalproject.jpg
-title: Vacay
+title: Working Together
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20

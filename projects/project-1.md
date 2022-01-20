@@ -8,37 +8,14 @@ permalink: projects/micromouse
 date: 2022-01-20
 labels:
   - Java
-summary: A project assigned to create a game for ICS111
+  - Game
+summary: A project assigned to create a game for ICS111.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+Prior to taking ICS 111 I had taking a year of AP Computer Science in highschool and learn about the basics. I was expecting the professor at the time to just go over things I already learned in the previous year, but this professor wanted to change thigns up. He had a passion for coding visually and so he incorporated something called EZ.java into the lessons. With the EZ.java library we're able to create images on the screen using java. Now having the EZ.java library the classes was givin a project to create something with it. 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The first idea in mind was try to create a game, and so I brainstormed a simple idea and brought it to life. The player is a dog named yip and lost his toys, the objective of the game is to collect the 5 items spread across the screen while avoiding the items dogs tend to not like. As this was the first ever game I tried to create I had a lot of ideas with no clue on how to code it, but taking things one step at a time I was able to make my vision come true. Starting with the basics like creating an image on the screen, then setting the boarders, and importing the images, I had full control of what I wanted to make and in the end I got the A. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Source: <a href="https://github.com/Scott-Yuk/scott-yuk.github.io/blob/master/Project1.java"><i class="large github icon"></i>Raw Code</a>
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-Source: <a href="https://github.com/Scott-Yuk/scott-yuk.github.io/blob/master/Project1.java"><i class="large github icon"></i>Game</a>
-
-You can learn more at the [UH Micromouse Website](https://www.youtube.com/watch?v=wYceMYNk_N8).
-
-
-
+You can see test and play the game at [Game Video](https://www.youtube.com/watch?v=wYceMYNk_N8).

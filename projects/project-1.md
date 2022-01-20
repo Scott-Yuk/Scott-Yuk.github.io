@@ -36,6 +36,7 @@ byte ADCRead(byte ch)
 }
 ```
 
+Source: <a href="https://github.com/Scott-Yuk/scott-yuk.github.io/blob/master/Project1.javay"><i class="large github icon"></i>Game</a>
 You can learn more at the [UH Micromouse Website](https://www.youtube.com/watch?v=wYceMYNk_N8).
 
 

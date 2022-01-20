@@ -18,6 +18,6 @@ Prior to taking ICS 111 I had taking a year of AP Computer Science in highschool
 
 The first idea in mind was try to create a game, and so I brainstormed a simple idea and brought it to life. The player is a dog named yip and lost his toys, the objective of the game is to collect the 5 items spread across the screen while avoiding the items dogs tend to not like. As this was the first ever game I tried to create I had a lot of ideas with no clue on how to code it, but taking things one step at a time I was able to make my vision come true. Starting with the basics like creating an image on the screen, then setting the boarders, and importing the images, I had full control of what I wanted to make and in the end I got the A. 
 
-Source: <a href="https://github.com/Scott-Yuk/scott-yuk.github.io/blob/master/Project1.java"><i class="large github icon"></i>Raw Code</a>
+Source: <a href="https://github.com/Scott-Yuk/scott-yuk.github.io/blob/master/Project1.java"><i class="large github icon"></i>Code</a>
 
-You can see test and play the game at [Game Video](https://www.youtube.com/watch?v=wYceMYNk_N8).
+You can see testing and game play at [Collect Yip's Things](https://www.youtube.com/watch?v=wYceMYNk_N8).

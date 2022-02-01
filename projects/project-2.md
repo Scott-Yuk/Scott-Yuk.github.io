@@ -20,6 +20,6 @@ I believe we all were a bit anxious to complete this final project becasue it is
 
 Reflecting on this final project, I learned how to work and collaborate with others in a team like setting. Although this project is probably at a smaller scale compared to a normal setting, I still got to experience working with others and having to combine my work with my partners. 
  
-Source: <a href="https://github.com/Scott-Yuk/Final"><i class="large github icon"></i>Repo</a>
+Source: <a href="https://github.com/Scott-Yuk/Final"><i class="large github icon"></i>Code</a>
 
 You can see testing and game play at [Video](https://youtu.be/k3Xa0vbvvQI).

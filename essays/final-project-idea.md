@@ -39,26 +39,26 @@ You are at the gym right now. In that case, you can go into Workout Warrior and 
 
 ## Mockup page
 
--Landing page
--Home page
--Calendar Page
--Admin page
--Workout page
--Workout session page
--User list page
--Confirmation page
+- Landing page
+- Home page
+- Calendar Page
+- Admin page
+- Workout page
+- Workout session page
+- User list page
+- Confirmation page
 
 ## Use Case
 
--New user creates a profile
--User visits tutorial page
--User goes to workout page
--Users can then pick a date and time on the calendar page
--User then can create a workout session page. Can be public or private
--User waits for responses
+- New user creates a profile
+- User visits tutorial page
+- User goes to workout page
+- Users can then pick a date and time on the calendar page
+- User then can create a workout session page. Can be public or private
+- User waits for responses
 
 ## Beyond the Basics
 
--Implament a text message interface 
--Implament a "I'm feeling lucky button" where the user is given a random public session suggection for a given time
--When creating a workout session the creator has an option to make it public or private, allowing them to choose who can see it or not
+- Implament a text message interface 
+- Implament a "I'm feeling lucky button" where the user is given a random public session suggection for a given time
+- When creating a workout session the creator has an option to make it public or private, allowing them to choose who can see it or not

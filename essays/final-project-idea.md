@@ -11,7 +11,7 @@ labels:
   - Meteor
 ---
 
-*In collaboration with Zachary, Chase and Tanner*
+*In collaboration with Zachary, Jase and Tanner*
 
 ## Overview
 

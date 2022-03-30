@@ -15,7 +15,7 @@ labels:
 
 ## Overview
 
-Problem: Trying to find people to work out with can be challenging as a college student, schedules change every semester so you might not be able to workout with friends and meeting people at the gym can by a little awkward.
+Problem: Trying to find people to work out with or play sports with can be challenging as a college student, schedules change every semester so you might not be able to workout with friends and finding enough people to play a sport with is challenging on it's own. 
 
 Solution: Our solution to this is the "Workout Warriors" website to help connect the UH community together and offers opportunities to meet new people and join group activities with other students.
 

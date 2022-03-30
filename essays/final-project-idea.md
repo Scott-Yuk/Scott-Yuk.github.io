@@ -21,11 +21,11 @@ Solution: Our solution to this is the "Workout Warriors" website to help connect
 
 ## Approach
 
-Project: Sports Squad
+Project: Workout Warriors
 Overview
 The problem: UH students can often ignore exercise, due to a busy schedule. Although a lot of people like to work out alone, many prefer a partner/group to workout with for a variety of reasons.
 
-The solution: Study Buddy is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
+The solution: Workout Warriors is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 Approach
 To use Workout Warrior, a student must login and set up their profile. The profile enables each student to list workouts they seek (running, sport, swimming, weightlifting, etc.), along with their intensity and skill level. Thus, all students are on the same page and know what to expect once they arrive at the gym. Each student must also provide a headshot so that they can be visually identified.
 

@@ -11,14 +11,14 @@ labels:
   - Meteor
 ---
 
-*In collaboration with Zachary, Jase and Tanner*
+*In collaboration with [Zachary](https://zchaikin.github.io/), [Jase](https://ishimi8.github.io/) and [Tanner](https://tanner-ky.github.io/)*
 
 ## Overview
 
-Problem: Wanting to play a group sport, working with someone but have no one to ask or not enought people? 
+Problem: Wanting to play a group sport, working with someone but have no one to ask or not enough people? 
 
 Solution: Our idea called "Workout Warriors" connects the UH community together and offers opportunities to meet new people and join group activities 
-with other stsudents.
+with other students.
 
 ## Approach
 
@@ -52,13 +52,13 @@ You are at the gym right now. In that case, you can go into Workout Warrior and 
 
 - New user creates a profile
 - User visits tutorial page
-- User goes to workout page
+- User goes to the workout page
 - Users can then pick a date and time on the calendar page
 - User then can create a workout session page. Can be public or private
 - User waits for responses
 
 ## Beyond the Basics
 
-- Implament a text message interface 
-- Implament a "I'm feeling lucky button" where the user is given a random public session suggection for a given time
+- Implement a text message interface 
+- Implement an "I'm feeling lucky button" where the user is given a random public session as a suggestion for a given time
 - When creating a workout session the creator has an option to make it public or private, allowing them to choose who can see it or not

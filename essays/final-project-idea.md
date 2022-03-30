@@ -27,7 +27,7 @@ Another section of the site lists all of the Workout options. Within each type o
 
 There are two styles of use for Workout Warrior: You want to plan a group workout session for later in the day or some subsequent day. In that case, you schedule for some time in the future. You are at the gym right now. In that case, you can go into Workout Warrior and schedule the session for “Right Now!”. Letting students know you are at the gym and ready to work out, hopefully generating a reaction and allowing others free to join you!
 
-## Mockup page
+## Mockup pages
 
 - Landing page
 - Home page
@@ -38,7 +38,7 @@ There are two styles of use for Workout Warrior: You want to plan a group workou
 - User list page
 - Confirmation page
 
-## Use Case
+## Use Cases
 
 - New user creates a profile
 - User visits tutorial page

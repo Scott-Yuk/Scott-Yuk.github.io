@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Final Project Idea
+title: Workout Warriors
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-29
 labels:
@@ -15,10 +15,9 @@ labels:
 
 ## Overview
 
-Problem: Wanting to play a group sport, working with someone but have no one to ask or not enough people? 
+Problem: Trying to find people to work out with can be challenging as a college student, schedules change every semester so you might not be able to workout with friends and meeting people at the gym can by a little awkward.
 
-Solution: Our idea called "Workout Warriors" connects the UH community together and offers opportunities to meet new people and join group activities 
-with other students.
+Solution: Our solution to this is the "Workout Warriors" website to help connect the UH community together and offers opportunities to meet new people and join group activities with other students.
 
 ## Approach
 

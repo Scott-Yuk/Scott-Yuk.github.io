@@ -24,6 +24,6 @@ Expanding on connecting a recipe to a design pattern. In this case lets say the 
 
 The picture above shows a recipe with instructions on how to make bread. Similarly there will be notes and documents on the various types of design patterns and how to use them and what they do. The recipe/documentation is key to understanding how to get to the end goal, and provides a greater understanding to the reader.
 
-## My Experience of Following the Recipe
+## My Experience With Following the Recipe
 
 Prior to learning about design patterns, I never knew I was already using them. In many of my computer science courses, they would cover general concepts and apply them to code without really telling why it works the way it does. An example of this is using the idea of classes in C and javascript, were we can use them to pass information around. These everyday design patterns that I never realized where design patterns, help ease the curve of learning how to code and gives a lot of options to making interesting code. Although the use of a design pattern brings complexity, that also means bringing more potential to what the code can do. Once the learning curve is passed, it's a matter of what I can do with what I learned.

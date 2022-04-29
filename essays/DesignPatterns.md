@@ -16,7 +16,7 @@ Hearing about design patterns for the first time I thought it would be a reoccur
 
 ## Following the Recipe
 
-<img class="ui small rounded centered image" src="../images/bread.jpg" alt="../images/bread.jpg">
+<img class="ui large rounded centered image" src="../images/bread.jpg" alt="../images/bread.jpg">
 
 Now learning what a design pattern is, it reminds me of following a recipe. In this case the food being the program we want to create, and the recipe guiding us to the end product. For example if you were to make bread for the first time from scratch without following a recipe it would be probably be terrible. Somethings just wouldn't work out like maybe the dough would be sticking everywhere, then come to find out you could use flour or oil to help the dough not stick. A coding example could be using a factory to return an object. Functions and tips already exist for these common issues that we all face, so finding a recipe to what we want can be crucial to getting to the end goal.
 

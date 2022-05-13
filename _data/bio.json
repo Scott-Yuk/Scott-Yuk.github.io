@@ -6,7 +6,7 @@
     "email": "syuk@hawaii.edu",
     "phone": "",
     "website": "https://scott-yuk.github.io",
-    "summary": "I am currently a student at the University of Hawaii at Manoa studying Computer Science in the college of Natural Sciences. Expected to graduate in the spring of 2023.",
+    "summary": "I am currently a student at the University of Hawaii at Manoa studying Computer Science in the college of Natural Sciences. Expected to graduate in the summer of 2023.",
     "location": {
       "address": "",
       "postalCode": "96814",
@@ -53,99 +53,100 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        "HTML",
+        "CSS",
+        "Wordpress",
+        "Drupal",
+        "Semantic-ui/react",
+        "Meteor"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Summer, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-26",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.98",
       "courses": [
+        "ICS 111, 141, 211, 212, 241, 311, 314, 321,"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "TEPPANYAKI FARMER",
+      "position": "Server",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-07-21",
+      "endDate": "2019-10-12",
+      "summary": "Worker that was taught to do everything from serving customers to preparing food.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Built good communication skills and learned how to work as team",
+        "Learned how to multitask and work all stations to support anywhere needed"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Nanzan Giro Giro",
+      "position": "Server",
+      "website": "https://www.nanzangirogiro.com/",
+      "startDate": "2019-11-16",
+      "endDate": "2022-02-01",
+      "summary": "Learned upscale dining etiquette with Japanese presentation",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Learning mindfulness and being able to work under great pressure",
+        "Building excellent customer service skills"
+      ]
+    },
+    {
+      "company": "UNIVERSITY OF HAWAII AT MANOA SHIDLER COLLEGE OF BUSINESS",
+      "position": "Web assistant",
+      "website": "https://shidler.hawaii.edu/",
+      "startDate": "2022-03-09",
+      "endDate": "Present",
+      "summary": "Learning how to assist with web site maintenance",
+      "highlights": [
+        "Learning how to maintain and run a website"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Technology Outreach Hawaii",
+      "website": "https://techoutreachhi.org/",
+      "position": "Front-end Developer",
+      "startDate": "2022-03-10",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Assisting on improving the website to connect the local community with technology",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Gaining strong coding skills",
+        "Learning independently while also working as a team"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Christ United Methodist Church Scholarship Award",
+      "date": "2021",
+      "awarder": "Christ United Methodist Church",
+      "summary": "Scholarships awarded to those with great academic achievement and helping the community."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2019 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Repeated $2,000 scholarship per semester for 4 years of undergraduate study for first-time degree students."
     }
   ],
   "references": [

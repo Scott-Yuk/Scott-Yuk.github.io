@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Game.jpg
-title: Building a Game with Java
-permalink: projects/yip
+title: Warrior Ride Buddies
+permalink: projects/final
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-13
 labels:

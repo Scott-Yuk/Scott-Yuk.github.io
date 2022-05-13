@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: Workout Warriors
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-29

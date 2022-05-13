@@ -67,7 +67,10 @@
       "level": "",
       "keywords": [
         "Windows",
-        "GitHub"
+        "GitHub",
+        "Intellij",
+        "Eclipse",
+        "Visual Studios"
       ]
     }
   ],
@@ -86,12 +89,12 @@
   ],
   "work": [
     {
-      "company": "TEPPANYAKI FARMER",
+      "company": "Teppanyaki Farmer",
       "position": "Server",
       "website": "",
       "startDate": "2019-07-21",
       "endDate": "2019-10-12",
-      "summary": "Worker that was taught to do everything from serving customers to preparing food.",
+      "summary": "Taught to do multiple tasks from serving customers to preparing food.",
       "highlights": [
         "Built good communication skills and learned how to work as team",
         "Learned how to multitask and work all stations to support anywhere needed"
@@ -110,8 +113,8 @@
       ]
     },
     {
-      "company": "UNIVERSITY OF HAWAII AT MANOA SHIDLER COLLEGE OF BUSINESS",
-      "position": "Web assistant",
+      "company": "University of Hawaii at Manoa Shidler College of Business",
+      "position": "Web Assistant",
       "website": "https://shidler.hawaii.edu/",
       "startDate": "2022-03-09",
       "endDate": "Present",

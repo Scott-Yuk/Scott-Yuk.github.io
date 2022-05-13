@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Game.jpg
 title: Building a Game with Java
-permalink: projects/micromouse
+permalink: projects/yip
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:

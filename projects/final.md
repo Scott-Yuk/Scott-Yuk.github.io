@@ -26,4 +26,4 @@ Having the vision of creating a service that could do what we wanted was a tall 
 
 After completing this project with my group members I learned a lot about how to work with others and how a team should function. Being available to help those in the team and communicating efficiently and frequently where major factors in being able to complete this project on time. Also being given the opportunity to work with others in near real-life project is an invaluable experience and something that I am very grateful for. 
 
-Source: <a href="https://warrior-ride-buddies.github.io/">warrior-ride-buddies.github.io</a>
+Checkout our github page at:<a href="https://warrior-ride-buddies.github.io/">warrior-ride-buddies.github.io</a>

@@ -21,7 +21,7 @@ Going to my software engineering class we had a clear goal of completing a worki
 
 One of the most important lessons to being able to complete the final project was the lesson on frameworks. First, what is a framework? A framework is the support that is allowing web applications to function and work. Almost like a template, it gives a strong starting point and can be changed to the user's needs. The first framework taught was the semantic-ui framework that made it possible to mimic the look of different websites. Then building off of that we learned semantic-ui-react which is a vert similar framework, but is used to work with react which is a library built to make a website or app look better.
 
-<img class="ui large rounded centered image" src="../images/SemanticUi.png" alt="../images/SemanticUi.png">
+<img class="ui small rounded centered image" src="../images/SemanticUi.png" alt="../images/SemanticUi.png">
 
 This lesson on frameworks made it possible to build my [final project](https://warrior-ride-buddies.github.io/) and gave an endless amount of possibilities to what I am capable of. Prior to this lesson we where able to mimic the look of different web sites, but it didn't actually do anything. Introducing frameworks brings that ability to have a legit functioning website like other major company's like amazon, facebook, apple, etc... Like a tool that can do it all the only limiter is myself.
 

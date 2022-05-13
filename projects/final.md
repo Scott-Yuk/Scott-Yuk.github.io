@@ -5,7 +5,7 @@ image: images/finalprojectwwb.png
 title: Warrior-Ride-Buddies
 permalink: projects/warrior-ride-buddies
 # All dates must be YYYY-MM-DD format!
-date: 2022-05-13
+date: 2022-05-12
 labels:
 - Meteor
 - Semantic Ui React

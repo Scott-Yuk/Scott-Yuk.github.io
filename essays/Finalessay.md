@@ -19,7 +19,9 @@ At the start of my spring semester I had the goal of pushing myself and start to
 
 Going to my software engineering class we had a clear goal of completing a working web app by the end of the semester. This seemed like an impossible mountain to climb as I had no experience with building a web site, but as the course continued all the pieces seemed to come together and when the time came to do the final project it all seemed possible.
 
-One of the most important lessons to being able to complete the final project was the lesson on frameworks. First, what is a framework? A framework is the support that is allowing web applications to function and work. Almost like a template, it gives a strong starting point and can be changed to the user's needs. 
+One of the most important lessons to being able to complete the final project was the lesson on frameworks. First, what is a framework? A framework is the support that is allowing web applications to function and work. Almost like a template, it gives a strong starting point and can be changed to the user's needs. The first framework taught was the semantic-ui framework that made it possible to mimic the look of different websites. Then building off of that we learned semantic-ui-react which is a vert similar framework, but is used to work with react which is a library built to make a website or app look better.
+
+<img class="ui large rounded centered image" src="../images/SemanticUi.png" alt="../images/SemanticUi.png">
 
 This lesson on frameworks made it possible to build my [final project](https://warrior-ride-buddies.github.io/) and gave an endless amount of possibilities to what I am capable of. Prior to this lesson we where able to mimic the look of different web sites, but it didn't actually do anything. Introducing frameworks brings that ability to have a legit functioning website like other major company's like amazon, facebook, apple, etc... Like a tool that can do it all the only limiter is myself.
 

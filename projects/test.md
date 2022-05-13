@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/Game.jpg
+image: images/finalprojectwwb.png
 title: Building a Game with Java
-permalink: projects/yip
+permalink: projects/warrior-ride-buddies
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
@@ -12,4 +12,4 @@ labels:
 summary: A project assigned to create a game for ICS111.
 ---
 
-## Working?
+## work!

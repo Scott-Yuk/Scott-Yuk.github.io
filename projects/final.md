@@ -12,7 +12,7 @@ labels:
 summary: A project assigned to create a game for ICS111.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/Game.jpg">
+<img class="ui medium right floated rounded image" src="/images/finalprojectwwb.png">
 
 Prior to taking ICS 111 I had taking a year of AP Computer Science in highschool and learn about the basics. I was expecting the professor at the time to just go over things I already learned in the previous year, but this professor wanted to change thigns up. He had a passion for coding visually and so he incorporated something called EZ.java into the lessons. With the EZ.java library we're able to create images on the screen using java. Now having the EZ.java library the classes was givin a project to create something with it. 
 

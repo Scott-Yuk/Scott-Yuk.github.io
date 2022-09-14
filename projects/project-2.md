@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Finalproject.jpg
 title: Working Together
-permalink: projects/vacay
+permalink: projects/galaga
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
